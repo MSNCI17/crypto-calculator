@@ -3,6 +3,7 @@
 Cryptocurrency portfolio calculator built with react and ruby on rails.
 
 # Image
+<img src = "app/images/Crypto-calc%20img.png">
 
 
 
